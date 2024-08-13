@@ -2,6 +2,15 @@
 
 > This is My [Personal Portfolio](https://dhawal-793-portfolio.onrender.com)
 
+
+## About Me:
+Hello Everyone, I am Dhawal Vijayvargiya, DevOps Intern @ GKMIT Pvt. Ltd., Currently doing Masters in Computer Application at Geetanjali Institute of Technical Studies, Udaipur.
+
+I am a passionte developer, and coding enthusiast, with knowledge of various technologies.<br>
+I love to work on Linux systems, ad currently Focusing on DevOps.
+I have also worked in technologies such as ReactJs, NextJS, ExpressJS, Tailwind CSS to make beautiful web applications.
+
+
 ---
 
 <h2 align="left">&#x1f4c8; Repo Stats:</h2>
@@ -64,3 +73,5 @@
     </a>
 
 </p>
+
+
